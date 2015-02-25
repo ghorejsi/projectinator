@@ -1,7 +1,7 @@
-[![Dependency Status](https://gemnasium.com/petastream/projectinator.svg)](https://gemnasium.com/petastream/projectinator)
-[![Build Status](https://travis-ci.org/petastream/Projectinator.svg?branch=master)](https://travis-ci.org/petastream/Projectinator)
+[![Build Status](https://travis-ci.org/petastream/projectinator.svg?branch=master)](https://travis-ci.org/petastream/projectinator)
 [![Code Climate](https://codeclimate.com/github/petastream/projectinator/badges/gpa.svg)](https://codeclimate.com/github/petastream/projectinator)
 [![Test Coverage](https://codeclimate.com/github/petastream/projectinator/badges/coverage.svg)](https://codeclimate.com/github/petastream/projectinator)
+[![Dependency Status](https://gemnasium.com/petastream/projectinator.svg)](https://gemnasium.com/petastream/projectinator)
 
 # Projectinator
 Project meta templating system for modern development.
