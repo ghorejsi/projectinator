@@ -1,2 +1,2 @@
 # Projectinator
-Project meta tempting system for modern development.
+Project meta templating system for modern development.
