@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/petastream/Projectinator.svg?branch=master)](https://travis-ci.org/petastream/Projectinator)
+[![Code Climate](https://codeclimate.com/github/petastream/projectinator/badges/gpa.svg)](https://codeclimate.com/github/petastream/projectinator)
+[![Test Coverage](https://codeclimate.com/github/petastream/projectinator/badges/coverage.svg)](https://codeclimate.com/github/petastream/projectinator)
 
 # Projectinator
 Project meta templating system for modern development.
